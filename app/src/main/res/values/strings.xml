@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Complex Calculator</string>
+    <string name="backspace">⌫</string>
+</resources>
